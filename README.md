@@ -1,5 +1,5 @@
 # fileTransferApplication
-Node.js application which takes directory name , file name from user and transfer those files asynchronously to other directory mentioned by user.
+Node.js application which takes directory name , file name from user and copies those files asynchronously to other directory mentioned by user.
 ###### Instructions
 - fork this repository
 - create a directory with files(.txt,.css,.js,etc...) inside the forked repository
